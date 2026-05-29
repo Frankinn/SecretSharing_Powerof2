@@ -17,4 +17,4 @@ Secret sharing implementation over GF(2^8)
 **GF_IRPOLY**: GF(2^k^)之irreducible polynomial。  
 
 ## 其他參數
-如同範例程式，需設定**人數**、**share數**、**secret**，高斯消去法的secret為一int陣列。
+如同範例程式，需設定**人數**、**share數**、**secret**，拉格朗日法的secret為一int陣列。
