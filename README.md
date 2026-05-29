@@ -2,7 +2,7 @@
 Secret sharing implementation over GF(2^8)
 
 # 說明
-本程式為將Galois Field GF(2^8^)應用於secret sharing之測試實作，可用於測試並比較GF(2^k^)與GF(p)查表與否、以及不同解密法之效率差異，功能較為簡陋，僅為測試之用。
+本程式為將Galois Field GF(2^8^)應用於secret sharing之測試實作，可用於測試並比較GF(2^k^)與GF(p)查表與否、以及不同解密法之效率差異。
 
 ## define
 **TEST_MODE**: 若為true則不顯示解密結果，用於計算花費時間。  
